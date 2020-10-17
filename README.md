@@ -11,9 +11,6 @@
  
  ### Start menu
  ![Shop](https://i.ibb.co/xh6bRCt/Start-Menu.jpg)
- 
- ## Installation and Setup Instructions
-Clone down this repository. You will need node and npm installed globally on your machine.
 
 ## To Visit App:
 
